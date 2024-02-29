@@ -1,10 +1,23 @@
 /* elemen selector */
 body{
-    background-color: cornflowerblue;
+    background-color: darkorange;
     font-family: cursive;
 }
 
 /* class secector */
 .text-primary{
     color: beige;
+}
+
+.col{
+    width: 25%;
+    float: left;
+}
+
+.img-responsive{
+    width: 100%;
+    max-height: 500px;
+}
+.cirle{
+    border-radius: 50px;
 }
