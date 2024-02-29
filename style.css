@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 /* elemen selector */
 body{
     background-color: darkorange;
@@ -20,4 +23,11 @@ body{
 }
 .cirle{
     border-radius: 50px;
+}
+.p1{
+    padding: 10px;
+}
+.col-50{
+    width: 50%;
+    float: left;
 }
