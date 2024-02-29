@@ -1,6 +1,10 @@
 /* elemen selector */
 body{
     background-color: cornflowerblue;
+    font-family: cursive;
 }
 
-/*  */
+/* class secector */
+.text-primary{
+    color: beige;
+}
